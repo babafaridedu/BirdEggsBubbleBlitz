@@ -6,55 +6,19 @@
 	<dict>
 		<key>ios-arm64/GeoComplySDK.framework/GeoComplySDK</key>
 		<data>
-		s1e32iKG7gCghO48Eqh2ZOMYrMI=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCCancelReason.h</key>
-		<data>
-		bq7VJYDCUoKGMZJSR4D9bXZ9TuA=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCCustomFields.h</key>
-		<data>
-		wKGJxqeNa7zxTXscbzMjhjLAUno=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCError.h</key>
-		<data>
-		IT7jbImB2WjkXMOhZb6oI1/zb/4=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCIntegrationSuggestionDefines.h</key>
-		<data>
-		x0mqimIJYWdw9sDYJj083IB3ycM=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCMyIpError.h</key>
-		<data>
-		d5z3Fuo/ymt1BLpoXDVJN5i46Gw=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCReasonCode.h</key>
-		<data>
-		jCkFUp3Ji2tMcoS9fCNXnp0HZbo=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplyBeaconScannerProtocol.h</key>
-		<data>
-		DDo7zkcqSK+FNSiDwTZVJb5cOrk=
+		UIxy3JF3n9oVlTy9UF0J3IU63PA=
 		</data>
 		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplyClient.h</key>
 		<data>
-		qff79X0o8uLFnca5Hf1GygNJgw8=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplyClientProtocol.h</key>
-		<data>
-		6KSB4sLeA6NqnYhcyEqBt1904p0=
-		</data>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplyMyIpServiceProtocol.h</key>
-		<data>
-		o1STtbRGzKe/jQaRQ8apVGU3SxY=
+		0IeEvNLCpSacv61qFXSPt+55aGw=
 		</data>
 		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplySDK.h</key>
 		<data>
-		lbe2K8AsUsVDxlK9CxPa7j6vghk=
+		tMVTWe7EtRNX0LODUAIX/Y84GD8=
 		</data>
 		<key>ios-arm64/GeoComplySDK.framework/Info.plist</key>
 		<data>
-		qknmLTsRHvoOcTIp9Bfkf2Oh0Ww=
+		+mCAUhRFC6leeRt/UVJB2jX3NUw=
 		</data>
 		<key>ios-arm64/GeoComplySDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -62,63 +26,27 @@
 		</data>
 		<key>ios-arm64/GeoComplySDK.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		GLyhh74NZfLAfKQPWy+WnYK56KQ=
+		AL1dh5ctObXBjoBiabSJ86M3HQs=
 		</data>
 		<key>ios-arm64/GeoComplySDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		/gEh88/IhJn+JRRES9ZwM3W6k5s=
+		jMcw4K86wFzsYFBcvXRpizmEe3E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/GeoComplySDK</key>
 		<data>
-		b3NhwttwRpr5uLRt1a7CJaVoNls=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCCancelReason.h</key>
-		<data>
-		bq7VJYDCUoKGMZJSR4D9bXZ9TuA=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCCustomFields.h</key>
-		<data>
-		wKGJxqeNa7zxTXscbzMjhjLAUno=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCError.h</key>
-		<data>
-		IT7jbImB2WjkXMOhZb6oI1/zb/4=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCIntegrationSuggestionDefines.h</key>
-		<data>
-		x0mqimIJYWdw9sDYJj083IB3ycM=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCMyIpError.h</key>
-		<data>
-		d5z3Fuo/ymt1BLpoXDVJN5i46Gw=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCReasonCode.h</key>
-		<data>
-		jCkFUp3Ji2tMcoS9fCNXnp0HZbo=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplyBeaconScannerProtocol.h</key>
-		<data>
-		DDo7zkcqSK+FNSiDwTZVJb5cOrk=
+		gZMmv7lGtos5LPqK4zckqsvqO5Q=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplyClient.h</key>
 		<data>
-		qff79X0o8uLFnca5Hf1GygNJgw8=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplyClientProtocol.h</key>
-		<data>
-		6KSB4sLeA6NqnYhcyEqBt1904p0=
-		</data>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplyMyIpServiceProtocol.h</key>
-		<data>
-		o1STtbRGzKe/jQaRQ8apVGU3SxY=
+		0IeEvNLCpSacv61qFXSPt+55aGw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplySDK.h</key>
 		<data>
-		lbe2K8AsUsVDxlK9CxPa7j6vghk=
+		tMVTWe7EtRNX0LODUAIX/Y84GD8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Info.plist</key>
 		<data>
-		rza+EPniJ32wzMYtYqqyBnuXtVo=
+		EqKdC6+tWW+ycYPsTgGKzTq+dwE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -126,11 +54,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		GLyhh74NZfLAfKQPWy+WnYK56KQ=
+		AL1dh5ctObXBjoBiabSJ86M3HQs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		4o9bx+6zQ4gqw1JNyOQmsKULToM=
+		2AnxrnlEvQpTp3T5KrJ8uZdRiJI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -139,143 +67,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s1e32iKG7gCghO48Eqh2ZOMYrMI=
+			UIxy3JF3n9oVlTy9UF0J3IU63PA=
 			</data>
 			<key>hash2</key>
 			<data>
-			AQvl+e9dUKtWDg6WGwVRK5U+EnjinmcjC+zJBoKUEYI=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCCancelReason.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bq7VJYDCUoKGMZJSR4D9bXZ9TuA=
-			</data>
-			<key>hash2</key>
-			<data>
-			17amHd3zs7omwkTbXiif2CKlyDKgpZHsVDBcXSu4UZA=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCCustomFields.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wKGJxqeNa7zxTXscbzMjhjLAUno=
-			</data>
-			<key>hash2</key>
-			<data>
-			yxYxwCvOqMHEqhIU05vPTR4xC2InDCBE3OWoWpHfnT8=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCError.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IT7jbImB2WjkXMOhZb6oI1/zb/4=
-			</data>
-			<key>hash2</key>
-			<data>
-			mY/m6bISi59jzh9UcJEeO5WbUjLVBqAD4PE3Ia9M5gI=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCIntegrationSuggestionDefines.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			x0mqimIJYWdw9sDYJj083IB3ycM=
-			</data>
-			<key>hash2</key>
-			<data>
-			q40euKIJz1moeP2Ik3bcmJK+nKIVbtHyJYhbQlzEKMs=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCMyIpError.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d5z3Fuo/ymt1BLpoXDVJN5i46Gw=
-			</data>
-			<key>hash2</key>
-			<data>
-			gP96ZwgSr58A6Asz3dbxmMuvfp7bgQu0gLw1HAQn5zs=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GCReasonCode.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jCkFUp3Ji2tMcoS9fCNXnp0HZbo=
-			</data>
-			<key>hash2</key>
-			<data>
-			3B3NVtJyakyeR92IFjf0xFKSFd2zQkZyHsRPVWpllJo=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplyBeaconScannerProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DDo7zkcqSK+FNSiDwTZVJb5cOrk=
-			</data>
-			<key>hash2</key>
-			<data>
-			kic5RF2/Ma3UJq/1mL18rSyNw28jiOT/9EyiOqEumoY=
+			Y8myhQ3PfFfPx1uNalmLc+T6ajUCy3PwHDuhSlHaycU=
 			</data>
 		</dict>
 		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplyClient.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qff79X0o8uLFnca5Hf1GygNJgw8=
+			0IeEvNLCpSacv61qFXSPt+55aGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			kkoP8aCZdcJEB3hHkwBPzwGtFRoUHQecogbxCHwuOWo=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplyClientProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6KSB4sLeA6NqnYhcyEqBt1904p0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ru6sbWRs6RxyVIz9B/gfKT4gz6rEYRpzZYGsORUyPPo=
-			</data>
-		</dict>
-		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplyMyIpServiceProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			o1STtbRGzKe/jQaRQ8apVGU3SxY=
-			</data>
-			<key>hash2</key>
-			<data>
-			OYxn/6WkyU9uI5OHC3ydbl5Xn0zfpG9jo/k82j4pf9M=
+			tFtd67yqw+/afl8wwRlJgMxcKRR6qaQNb7+XhXDoNP8=
 			</data>
 		</dict>
 		<key>ios-arm64/GeoComplySDK.framework/Headers/GeoComplySDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lbe2K8AsUsVDxlK9CxPa7j6vghk=
+			tMVTWe7EtRNX0LODUAIX/Y84GD8=
 			</data>
 			<key>hash2</key>
 			<data>
-			KtvWOA4aXhhGQspFOXuCtpLwuvacve8tf3yDMBfYjLw=
+			b7n809s44iY4yr9nNFAKfEVwcHFdEdTjKcWDc4yHAq4=
 			</data>
 		</dict>
 		<key>ios-arm64/GeoComplySDK.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qknmLTsRHvoOcTIp9Bfkf2Oh0Ww=
+			+mCAUhRFC6leeRt/UVJB2jX3NUw=
 			</data>
 			<key>hash2</key>
 			<data>
-			7QcmZyeHhMF28SZ8FjG9ofgj5S2CUXQiBc1+V+EAZHY=
+			60vkjlsK3f/1PQLopX1mPz4WZobKERrbX5ieqvjf+k4=
 			</data>
 		</dict>
 		<key>ios-arm64/GeoComplySDK.framework/Modules/module.modulemap</key>
@@ -293,165 +122,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GLyhh74NZfLAfKQPWy+WnYK56KQ=
+			AL1dh5ctObXBjoBiabSJ86M3HQs=
 			</data>
 			<key>hash2</key>
 			<data>
-			SN0NhSgjth2YdxNcfdx6+OV4Ou36JY+nJ9dhxBqOLdI=
+			WpuPwM3bECAbtHzCgEs/AExyUUdmItJb/E61TtRuEIQ=
 			</data>
 		</dict>
 		<key>ios-arm64/GeoComplySDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/gEh88/IhJn+JRRES9ZwM3W6k5s=
+			jMcw4K86wFzsYFBcvXRpizmEe3E=
 			</data>
 			<key>hash2</key>
 			<data>
-			tfB5pSn9n3Q15Z+DKjd7FIda36rcVrve3hRvF4PBaos=
+			ye+1lKUDyZyHfKXxvI8bcHyv1OBryKFLKEwGM/6/IeI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/GeoComplySDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b3NhwttwRpr5uLRt1a7CJaVoNls=
+			gZMmv7lGtos5LPqK4zckqsvqO5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			wfEYLn3WU3cGIfEMZy/xwCti89qQhU07tTjuE7t8wbw=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCCancelReason.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bq7VJYDCUoKGMZJSR4D9bXZ9TuA=
-			</data>
-			<key>hash2</key>
-			<data>
-			17amHd3zs7omwkTbXiif2CKlyDKgpZHsVDBcXSu4UZA=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCCustomFields.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wKGJxqeNa7zxTXscbzMjhjLAUno=
-			</data>
-			<key>hash2</key>
-			<data>
-			yxYxwCvOqMHEqhIU05vPTR4xC2InDCBE3OWoWpHfnT8=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCError.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IT7jbImB2WjkXMOhZb6oI1/zb/4=
-			</data>
-			<key>hash2</key>
-			<data>
-			mY/m6bISi59jzh9UcJEeO5WbUjLVBqAD4PE3Ia9M5gI=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCIntegrationSuggestionDefines.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			x0mqimIJYWdw9sDYJj083IB3ycM=
-			</data>
-			<key>hash2</key>
-			<data>
-			q40euKIJz1moeP2Ik3bcmJK+nKIVbtHyJYhbQlzEKMs=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCMyIpError.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d5z3Fuo/ymt1BLpoXDVJN5i46Gw=
-			</data>
-			<key>hash2</key>
-			<data>
-			gP96ZwgSr58A6Asz3dbxmMuvfp7bgQu0gLw1HAQn5zs=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GCReasonCode.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jCkFUp3Ji2tMcoS9fCNXnp0HZbo=
-			</data>
-			<key>hash2</key>
-			<data>
-			3B3NVtJyakyeR92IFjf0xFKSFd2zQkZyHsRPVWpllJo=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplyBeaconScannerProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DDo7zkcqSK+FNSiDwTZVJb5cOrk=
-			</data>
-			<key>hash2</key>
-			<data>
-			kic5RF2/Ma3UJq/1mL18rSyNw28jiOT/9EyiOqEumoY=
+			Umpkgj4DPnZ5FiTMyMw5ODOYysfFJKWykS4XbU1pmjM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplyClient.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qff79X0o8uLFnca5Hf1GygNJgw8=
+			0IeEvNLCpSacv61qFXSPt+55aGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			kkoP8aCZdcJEB3hHkwBPzwGtFRoUHQecogbxCHwuOWo=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplyClientProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6KSB4sLeA6NqnYhcyEqBt1904p0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ru6sbWRs6RxyVIz9B/gfKT4gz6rEYRpzZYGsORUyPPo=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplyMyIpServiceProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			o1STtbRGzKe/jQaRQ8apVGU3SxY=
-			</data>
-			<key>hash2</key>
-			<data>
-			OYxn/6WkyU9uI5OHC3ydbl5Xn0zfpG9jo/k82j4pf9M=
+			tFtd67yqw+/afl8wwRlJgMxcKRR6qaQNb7+XhXDoNP8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Headers/GeoComplySDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lbe2K8AsUsVDxlK9CxPa7j6vghk=
+			tMVTWe7EtRNX0LODUAIX/Y84GD8=
 			</data>
 			<key>hash2</key>
 			<data>
-			KtvWOA4aXhhGQspFOXuCtpLwuvacve8tf3yDMBfYjLw=
+			b7n809s44iY4yr9nNFAKfEVwcHFdEdTjKcWDc4yHAq4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rza+EPniJ32wzMYtYqqyBnuXtVo=
+			EqKdC6+tWW+ycYPsTgGKzTq+dwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			vqctubL2Uj2gt/lVne7iL7lJjN2iyB/en/XTjmmzXZI=
+			NX6zgakXP3PPEPWSLQNoevzMyGKCpeGKTqVNrzk40GU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/Modules/module.modulemap</key>
@@ -469,22 +199,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GLyhh74NZfLAfKQPWy+WnYK56KQ=
+			AL1dh5ctObXBjoBiabSJ86M3HQs=
 			</data>
 			<key>hash2</key>
 			<data>
-			SN0NhSgjth2YdxNcfdx6+OV4Ou36JY+nJ9dhxBqOLdI=
+			WpuPwM3bECAbtHzCgEs/AExyUUdmItJb/E61TtRuEIQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GeoComplySDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4o9bx+6zQ4gqw1JNyOQmsKULToM=
+			2AnxrnlEvQpTp3T5KrJ8uZdRiJI=
 			</data>
 			<key>hash2</key>
 			<data>
-			M8/MGmvLJoeXY9mWFkBPojgfhfxuqZNRrPNQIhpgaac=
+			0S2LlIjJBWfcUvhSLTyoduQ6D5S51oPrYSt404U9yx4=
 			</data>
 		</dict>
 	</dict>

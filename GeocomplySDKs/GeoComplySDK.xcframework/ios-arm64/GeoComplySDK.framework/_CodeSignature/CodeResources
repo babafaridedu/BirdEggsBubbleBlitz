@@ -4,53 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/GCCancelReason.h</key>
-		<data>
-		bq7VJYDCUoKGMZJSR4D9bXZ9TuA=
-		</data>
-		<key>Headers/GCCustomFields.h</key>
-		<data>
-		wKGJxqeNa7zxTXscbzMjhjLAUno=
-		</data>
-		<key>Headers/GCError.h</key>
-		<data>
-		IT7jbImB2WjkXMOhZb6oI1/zb/4=
-		</data>
-		<key>Headers/GCIntegrationSuggestionDefines.h</key>
-		<data>
-		x0mqimIJYWdw9sDYJj083IB3ycM=
-		</data>
-		<key>Headers/GCMyIpError.h</key>
-		<data>
-		d5z3Fuo/ymt1BLpoXDVJN5i46Gw=
-		</data>
-		<key>Headers/GCReasonCode.h</key>
-		<data>
-		jCkFUp3Ji2tMcoS9fCNXnp0HZbo=
-		</data>
-		<key>Headers/GeoComplyBeaconScannerProtocol.h</key>
-		<data>
-		DDo7zkcqSK+FNSiDwTZVJb5cOrk=
-		</data>
 		<key>Headers/GeoComplyClient.h</key>
 		<data>
-		qff79X0o8uLFnca5Hf1GygNJgw8=
-		</data>
-		<key>Headers/GeoComplyClientProtocol.h</key>
-		<data>
-		6KSB4sLeA6NqnYhcyEqBt1904p0=
-		</data>
-		<key>Headers/GeoComplyMyIpServiceProtocol.h</key>
-		<data>
-		o1STtbRGzKe/jQaRQ8apVGU3SxY=
+		0IeEvNLCpSacv61qFXSPt+55aGw=
 		</data>
 		<key>Headers/GeoComplySDK.h</key>
 		<data>
-		lbe2K8AsUsVDxlK9CxPa7j6vghk=
+		tMVTWe7EtRNX0LODUAIX/Y84GD8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qknmLTsRHvoOcTIp9Bfkf2Oh0Ww=
+		+mCAUhRFC6leeRt/UVJB2jX3NUw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,86 +22,23 @@
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		GLyhh74NZfLAfKQPWy+WnYK56KQ=
+		AL1dh5ctObXBjoBiabSJ86M3HQs=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/GCCancelReason.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			17amHd3zs7omwkTbXiif2CKlyDKgpZHsVDBcXSu4UZA=
-			</data>
-		</dict>
-		<key>Headers/GCCustomFields.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yxYxwCvOqMHEqhIU05vPTR4xC2InDCBE3OWoWpHfnT8=
-			</data>
-		</dict>
-		<key>Headers/GCError.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mY/m6bISi59jzh9UcJEeO5WbUjLVBqAD4PE3Ia9M5gI=
-			</data>
-		</dict>
-		<key>Headers/GCIntegrationSuggestionDefines.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			q40euKIJz1moeP2Ik3bcmJK+nKIVbtHyJYhbQlzEKMs=
-			</data>
-		</dict>
-		<key>Headers/GCMyIpError.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gP96ZwgSr58A6Asz3dbxmMuvfp7bgQu0gLw1HAQn5zs=
-			</data>
-		</dict>
-		<key>Headers/GCReasonCode.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3B3NVtJyakyeR92IFjf0xFKSFd2zQkZyHsRPVWpllJo=
-			</data>
-		</dict>
-		<key>Headers/GeoComplyBeaconScannerProtocol.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kic5RF2/Ma3UJq/1mL18rSyNw28jiOT/9EyiOqEumoY=
-			</data>
-		</dict>
 		<key>Headers/GeoComplyClient.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kkoP8aCZdcJEB3hHkwBPzwGtFRoUHQecogbxCHwuOWo=
-			</data>
-		</dict>
-		<key>Headers/GeoComplyClientProtocol.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ru6sbWRs6RxyVIz9B/gfKT4gz6rEYRpzZYGsORUyPPo=
-			</data>
-		</dict>
-		<key>Headers/GeoComplyMyIpServiceProtocol.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OYxn/6WkyU9uI5OHC3ydbl5Xn0zfpG9jo/k82j4pf9M=
+			tFtd67yqw+/afl8wwRlJgMxcKRR6qaQNb7+XhXDoNP8=
 			</data>
 		</dict>
 		<key>Headers/GeoComplySDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KtvWOA4aXhhGQspFOXuCtpLwuvacve8tf3yDMBfYjLw=
+			b7n809s44iY4yr9nNFAKfEVwcHFdEdTjKcWDc4yHAq4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -151,7 +52,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SN0NhSgjth2YdxNcfdx6+OV4Ou36JY+nJ9dhxBqOLdI=
+			WpuPwM3bECAbtHzCgEs/AExyUUdmItJb/E61TtRuEIQ=
 			</data>
 		</dict>
 	</dict>

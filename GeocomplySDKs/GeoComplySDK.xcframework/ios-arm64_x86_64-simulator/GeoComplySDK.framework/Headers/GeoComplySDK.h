@@ -18,13 +18,4 @@ FOUNDATION_EXPORT const unsigned char GeoComplySDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <GeoComplySDK/PublicHeader.h>
 
-#import <GeoComplySDK/GCCancelReason.h>
-#import <GeoComplySDK/GCError.h>
-#import <GeoComplySDK/GCCustomFields.h>
-#import <GeoComplySDK/GCReasonCode.h>
-#import <GeoComplySDK/GeoComplyClientProtocol.h>
-#import <GeoComplySDK/GCMyIpError.h>
-#import <GeoComplySDK/GeoComplyMyIpServiceProtocol.h>
-#import <GeoComplySDK/GeoComplyBeaconScannerProtocol.h>
-#import <GeoComplySDK/GCIntegrationSuggestionDefines.h>
 #import <GeoComplySDK/GeoComplyClient.h>
