@@ -5,6 +5,64 @@
 	};
 	objectVersion = 77;
 	objects = {
+	
+/* Begin PBXBuildFile section */
+		0174F6C1FEB3ADEF37E973D2 /* Pods_ChickenEggs_BubbleBlitz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 659DCCD298926EEDF19A7AB9 /* Pods_ChickenEggs_BubbleBlitz.framework */; };
+		F6BEBD792F3744E600F5E3B7 /* GeoComplySDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6BEBD772F3744DF00F5E3B7 /* GeoComplySDK.xcframework */; };
+		F6BEBD7A2F3744E600F5E3B7 /* GeoComplySDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6BEBD772F3744DF00F5E3B7 /* GeoComplySDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F6BEBD812F3744E600F5E3B7 /* GCSDKDomain.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6BEBD802F3744DF00F5E3B7 /* GCSDKDomain.xcframework */; };
+		F6BEBD822F3744E600F5E3B7 /* GCSDKDomain.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6BEBD802F3744DF00F5E3B7 /* GCSDKDomain.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F6BEBD842F3744E600F5E3B7 /* GeoComplySDK2110.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6BEBD832F3744DF00F5E3B7 /* GeoComplySDK2110.xcframework */; };
+		F6BEBD862F3744E600F5E3B7 /* GeoComplySDK2110.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6BEBD832F3744DF00F5E3B7 /* GeoComplySDK2110.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F6BEBD7B2F3744E600F5E3B7 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				F6BEBD7A2F3744E600F5E3B7 /* GeoComplySDK.xcframework in Embed Frameworks */,
+				F6BEBD822F3744E600F5E3B7 /* GCSDKDomain.xcframework in Embed Frameworks */,
+				F6BEBD862F3744E600F5E3B7 /* GeoComplySDK2110.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		659DCCD298926EEDF19A7AB9 /* Pods_ChickenEggs_BubbleBlitz.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChickenEggs_BubbleBlitz.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A188782231B7521A2431DAF1 /* Pods-ChickenEggs BubbleBlitz.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChickenEggs BubbleBlitz.release.xcconfig"; path = "Target Support Files/Pods-ChickenEggs BubbleBlitz/Pods-ChickenEggs BubbleBlitz.release.xcconfig"; sourceTree = "<group>"; };
+		AE3ADFA76A3A2EE2127E8472 /* Pods-ChickenEggs BubbleBlitz.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChickenEggs BubbleBlitz.debug.xcconfig"; path = "Target Support Files/Pods-ChickenEggs BubbleBlitz/Pods-ChickenEggs BubbleBlitz.debug.xcconfig"; sourceTree = "<group>"; };
+		CF5472422EDE2B9700D83016 /* ChickenEggs BubbleBlitz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ChickenEggs BubbleBlitz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6BEBD772F3744DF00F5E3B7 /* GeoComplySDK.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:6YPTSWJK4P:Geocomply USA, Inc."; lastKnownFileType = wrapper.xcframework; path = GeoComplySDK.xcframework; sourceTree = "<group>"; };
+		F6BEBD802F3744DF00F5E3B7 /* GCSDKDomain.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GCSDKDomain.xcframework; sourceTree = "<group>"; };
+		F6BEBD832F3744DF00F5E3B7 /* GeoComplySDK2110.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = GeoComplySDK2110.xcframework; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CED5FAFAB83A1B8E8119F15B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F6BEBD782F3744DF00F5E3B7 /* GeocomplySDKs */,
+				659DCCD298926EEDF19A7AB9 /* Pods_ChickenEggs_BubbleBlitz.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F6BEBD782F3744DF00F5E3B7 /* GeocomplySDKs */ = {
+			isa = PBXGroup;
+			children = (
+				F6BEBD772F3744DF00F5E3B7 /* GeoComplySDK.xcframework */,
+				F6BEBD802F3744DF00F5E3B7 /* GCSDKDomain.xcframework */,
+				F6BEBD832F3744DF00F5E3B7 /* GeoComplySDK2110.xcframework */,
+			);
+			path = GeocomplySDKs;
+			sourceTree = "<group>";
+		};
+/* End PBXBuildFile section */
 
 /* Begin PBXBuildFile section */
 		0174F6C1FEB3ADEF37E973D2 /* Pods_ChickenEggs_BubbleBlitz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 659DCCD298926EEDF19A7AB9 /* Pods_ChickenEggs_BubbleBlitz.framework */; };
